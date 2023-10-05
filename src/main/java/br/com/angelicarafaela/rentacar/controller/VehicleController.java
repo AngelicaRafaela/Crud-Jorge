@@ -1,9 +1,9 @@
-package br.com.matheusbales.rentacar.controller;
+package br.com.angelicarafaela.rentacar.controller;
 
-import br.com.matheusbales.rentacar.dto.CustomerDTO;
-import br.com.matheusbales.rentacar.dto.VehicleDTO;
-import br.com.matheusbales.rentacar.service.CustomerService;
-import br.com.matheusbales.rentacar.service.VehicleService;
+import br.com.angelicarafaela.rentacar.dto.CustomerDTO;
+import br.com.angelicarafaela.rentacar.dto.VehicleDTO;
+import br.com.angelicarafaela.rentacar.service.CustomerService;
+import br.com.angelicarafaela.rentacar.service.VehicleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

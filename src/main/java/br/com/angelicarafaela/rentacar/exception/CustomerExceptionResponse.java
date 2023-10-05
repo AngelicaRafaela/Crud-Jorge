@@ -1,4 +1,4 @@
-package br.com.matheusbales.rentacar.exception;
+package br.com.angelicarafaela.rentacar.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

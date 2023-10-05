@@ -1,10 +1,10 @@
-package br.com.matheusbales.rentacar.service;
+package br.com.angelicarafaela.rentacar.service;
 
-import br.com.matheusbales.rentacar.dto.CustomerDTO;
-import br.com.matheusbales.rentacar.exception.ResourceNotFoundException;
-import br.com.matheusbales.rentacar.mapper.CustomModelMapper;
-import br.com.matheusbales.rentacar.model.CustomerModel;
-import br.com.matheusbales.rentacar.repository.CustomerRepository;
+import br.com.angelicarafaela.rentacar.dto.CustomerDTO;
+import br.com.angelicarafaela.rentacar.exception.ResourceNotFoundException;
+import br.com.angelicarafaela.rentacar.mapper.CustomModelMapper;
+import br.com.angelicarafaela.rentacar.model.CustomerModel;
+import br.com.angelicarafaela.rentacar.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

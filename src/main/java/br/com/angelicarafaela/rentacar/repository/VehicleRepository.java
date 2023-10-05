@@ -1,7 +1,7 @@
-package br.com.matheusbales.rentacar.repository;
+package br.com.angelicarafaela.rentacar.repository;
 
-import br.com.matheusbales.rentacar.model.CustomerModel;
-import br.com.matheusbales.rentacar.model.VehicleModel;
+import br.com.angelicarafaela.rentacar.model.CustomerModel;
+import br.com.angelicarafaela.rentacar.model.VehicleModel;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,8 +1,8 @@
-package br.com.matheusbales.rentacar.controller;
+package br.com.angelicarafaela.rentacar.controller;
 
 
-import br.com.matheusbales.rentacar.dto.CustomerDTO;
-import br.com.matheusbales.rentacar.service.CustomerService;
+import br.com.angelicarafaela.rentacar.dto.CustomerDTO;
+import br.com.angelicarafaela.rentacar.service.CustomerService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.Schema;

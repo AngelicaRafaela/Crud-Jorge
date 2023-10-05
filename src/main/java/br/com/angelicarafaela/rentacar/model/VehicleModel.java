@@ -1,4 +1,4 @@
-package br.com.matheusbales.rentacar.model;
+package br.com.angelicarafaela.rentacar.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
